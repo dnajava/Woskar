@@ -1,0 +1,46 @@
+h1 { }
+span { margin: 2px;
+}
+
+table, th, td {
+  // border: 1px solid black;
+  // border-collapse: collapse;
+}
+
+.mainmenu { background-color: lightgreen;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.leftside { background-color: lightyellow;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.graphside { background-color: lightgrey;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+
+.mm { background-color: red;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+    
+}
+
+.calendarleft {
+    background-color: lightblue;
+}
+
+.ahileft {
+    background-color: orange;
+    text-align: center;
+}
